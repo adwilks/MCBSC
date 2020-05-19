@@ -1,6 +1,6 @@
 <template>
     <v-container>
-        <h1 class='text-center display-2'>Welcome to the G6 Service Catalog</h1>
+        <h1 class='text-center display-2'>Welcome to the MCIPAC G6 Service Catalog</h1>
         <br>
         <p class="text-center"> 
             Please select one of the options for our service lines on the left. This will bring up a list of the various

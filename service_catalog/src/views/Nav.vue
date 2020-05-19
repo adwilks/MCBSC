@@ -95,7 +95,9 @@ import {
   mdiApps,
   mdiExitToApp,
   mdiMagnify, 
-  mdiPrinter
+  mdiPrinter,
+  mdiAirplaneTakeoff,
+  mdiBriefcase
 } from "@mdi/js";
 export default {
   data: () => ({
@@ -110,9 +112,11 @@ export default {
     printer: mdiPrinter,
     items: [
       { icon: mdiAccountBox, text: "End User Services" },
-      { icon: mdiAccessPointNetwork, text: "Infastructure Services" },
+      { icon: mdiAccessPointNetwork, text: "Infrastructure Services" },
       { icon: mdiRadio, text: "Land Mobile Radio" },
-      { icon: mdiPhone, text: "Telephone Service Branch" }
+      { icon: mdiPhone, text: "Telephone Service Branch" },
+      { icon: mdiAirplaneTakeoff, text: "Operations Support"},
+      { icon: mdiBriefcase, text: "External Services"}
     ]
   }),
   methods: {

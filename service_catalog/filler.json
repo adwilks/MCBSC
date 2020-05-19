@@ -1,0 +1,21 @@
+{
+    "Service_x0020_Offering": "test",
+    "Offering_x0020_Description": "test",
+    "Mission_x0020_Priority": "test"
+}
+
+
+1) Title - service type
+  2) View
+  3) Service Status
+  4) Description
+  5) Features
+  6) Customer Units
+  7) Customer Priority
+  8) Command Objectives
+  9) Vital Mission Functions
+  10) Approval Level
+  11) Configurable Parameters
+  12) Assignment Queue(s)
+  13 IT Service Manager
+  
